@@ -1,0 +1,50 @@
+*{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: larger;
+    font-style: bold;
+    color: #8400ff;
+  }
+  
+  
+  video {
+    clear: both;
+    display: block;
+    height: 380px;
+    margin:auto;
+  }
+  
+  #buttons{
+    text-align: center;   
+  }
+
+  button {
+    padding: 5px;
+    margin: 5px 5px;
+   }
+  
+  ol {
+    text-align: left;
+  }
+  
+  .removed {
+    display: none;
+  }
+
+  #status,h1{
+    text-align: center;
+  }
+
+  footer{
+    font-size: x-small;
+    text-align: center;
+  }
